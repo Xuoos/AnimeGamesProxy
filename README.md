@@ -1,4 +1,9 @@
-# HoYoGamesProxy
-mihoyo/hoyoverse 游戏安卓代理Xposed模块
-
-todo...
+# AnimeGamesProxy
+动漫游戏安卓代理Xposed模块，重定向请求至指定私服
+支持代理:
+- 碧蓝档案
+- 鸣潮
+- 原神
+- 绝区零
+- 崩坏: 星穹铁道
+- 崩坏3
