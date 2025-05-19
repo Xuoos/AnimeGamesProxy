@@ -6,6 +6,7 @@
 ## 支持游戏列表
 
 - **碧蓝档案** (仅日服)
+  - 禁用反作弊
 - **明日方舟** (缺少测试)
 - **鸣潮** (缺少测试)
 - **原神**
@@ -14,6 +15,8 @@
 - **绝区零** (RSAPatch ×)
 - **崩坏: 星穹铁道**
 - **崩坏3** (缺少测试)
+
+包含对内置ACE的手游签名校验绕过
 
 ## 如需使用LSPatch，建议使用此分支：
 [https://github.com/JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
