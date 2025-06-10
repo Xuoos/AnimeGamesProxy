@@ -16,7 +16,9 @@
 - **崩坏: 星穹铁道**
 - **崩坏3** (缺少测试)
 
-包含对内置ACE的手游签名校验绕过
+包含对内置ACE反作弊手游的大部分检测绕过，主要目的是允许对apk包进行篡改以连接私服，这意味着你可能并不能利用它在官服中作弊
+
+本模块不支持在PC模拟器中工作，具体表现为部分功能失效
 
 ## 如需使用LSPatch，建议使用此分支：
 [https://github.com/JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
