@@ -7,14 +7,14 @@
 
 - **碧蓝档案** (日服&国际)
   - 禁用反作弊
-- **星塔旅人** (日服&国际)
+- **星塔旅人**
   - 去谷歌
 - **明日方舟** (仅国服)
   - 禁用NetWorkConfig校验
 - **鸣潮** (缺少测试)
 - **原神**
   - RSAPatch (3.1至最新，支持对Beta版本的修补)
-- **绝区零** (RSAPatch仅CN2.0 & CN2.1 & OS2.1)
+- **绝区零**
 - **崩坏: 星穹铁道**
 - **崩坏3** (缺少测试)
 
@@ -24,5 +24,5 @@
 
 ## 如需使用LSPatch，建议使用此分支：
 [https://github.com/JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
-
+##
 唯一QQ交流群: 782305852
