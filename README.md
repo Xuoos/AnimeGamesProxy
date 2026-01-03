@@ -4,7 +4,8 @@
 动漫手游安卓代理模块，用于重定向游戏请求至指定私服
 
 ## 支持游戏列表
-
+- **开放空间** (TapTap)
+  - 启用GM
 - **碧蓝档案** (日服&国际)
   - 禁用反作弊
 - **星塔旅人**
@@ -22,7 +23,9 @@
 
 本模块不支持在PC模拟器中工作，具体表现为部分功能失效
 
-## 如需使用LSPatch，建议使用此分支：
+## 如你的设备没有Root，可以使用框架：
 [https://github.com/JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch)
+或
+[https://github.com/7723mod/NPatch](https://github.com/7723mod/NPatch) (推荐)
 ##
 唯一QQ交流群: 782305852
