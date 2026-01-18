@@ -28,4 +28,4 @@
 或
 [https://github.com/7723mod/NPatch](https://github.com/7723mod/NPatch) (推荐)
 ##
-唯一QQ交流群: 782305852
+唯一QQ交流群: 782305852 该群不是某某私服的交流群，请不要盲目添加去问有关某某私服的问题！！！
